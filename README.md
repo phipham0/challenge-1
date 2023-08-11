@@ -31,9 +31,9 @@ There are three interactive links in the Navigation Bar in the upper right corne
 will send the user down the webpage to more information. For the rest of the page, the text can be read and the webpage can be scrolled through.
 
 
-![webpage1](./Develop/assets/images/horiseon-webpage-part1.png)
+![webpage1](./assets/images/horiseon-webpage-part1.png)
 
-![webpage2](./Develop/assets/images/horiseon-webpage-part2.png)
+![webpage2](./assets/images/horiseon-webpage-part2.png)
 
 
 ## License
