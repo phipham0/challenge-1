@@ -25,6 +25,10 @@ What was changed?
 To install the project, clone the repository onto your PC.
 Enter the directory that has the cloned repository and open (Double click) the index.html and style.css files to read the code and access the files.
 
+To access the webpage, click the link below:
+
+https://phipham0.github.io/challenge-1/#social-media-marketing
+
 ## Usage
 
 There are three interactive links in the Navigation Bar in the upper right corner. Each link, Search Engine Optimization, Online Reputation Management, and Social Media Marketing,
